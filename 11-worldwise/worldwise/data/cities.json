@@ -1,52 +1,73 @@
 {
-    "cities": [
-        {
-            "cityName": "Lisbon",
-            "country": "Portugal",
-            "emoji": "🇵🇹",
-            "date": "2027-10-31T15:59:59.138Z",
-            "notes": "My favorite city so far!",
-            "position": {
-                "lat": 38.727881642324164,
-                "lng": -9.140900099907554
-            },
-            "id": 73930385
-        },
-        {
-            "cityName": "Madrid",
-            "country": "Spain",
-            "emoji": "🇪🇸",
-            "date": "2027-07-15T08:22:53.976Z",
-            "notes": "",
-            "position": {
-                "lat": 40.46635901755316,
-                "lng": -3.7133789062500004
-            },
-            "id": 17806751
-        },
-        {
-            "cityName": "Berlin",
-            "country": "Germany",
-            "emoji": "🇩🇪",
-            "date": "2027-02-12T09:24:11.863Z",
-            "notes": "Amazing 😃",
-            "position": {
-                "lat": 52.53586782505711,
-                "lng": 13.376933665713324
-            },
-            "id": 98443197
-        },
-        {
-            "cityName": "Helsinki",
-            "country": "Finland",
-            "emoji": "🇫🇮",
-            "date": "2027-01-01T00:00:00.000Z",
-            "notes": "",
-            "position": {
-                "lat": 60.1695,
-                "lng": 24.9354
-            },
-            "id": 12345678
-        }
-    ]
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "22be",
+      "cityName": "Mequinensa / Mequinenza",
+      "emoji": "🇪🇸",
+      "date": "2025-07-31T12:18:15.634Z",
+      "notes": "",
+      "position": {
+        "lat": "41.29431726315258",
+        "lng": "0.30761718750000006"
+      }
+    },
+    {
+      "id": "3f4e",
+      "cityName": "el Pont de Bar",
+      "emoji": "🇪🇸",
+      "date": "2025-07-31T12:19:26.459Z",
+      "notes": "",
+      "position": {
+        "lat": "42.391008609205045",
+        "lng": "1.6259765625"
+      }
+    },
+    {
+      "id": "1c08",
+      "cityName": "Vantaa",
+      "emoji": "🇫🇮",
+      "date": "2025-07-31T12:20:08.868Z",
+      "notes": "",
+      "position": {
+        "lat": "60.32150850738404",
+        "lng": "25.037841796875004"
+      }
+    }
+  ]
 }
